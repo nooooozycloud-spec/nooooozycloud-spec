@@ -1,9 +1,8 @@
 ## 🚀 制作物 (Web Sites)
 GitHub Pagesを利用して公開しているWebサイトです。
-| サイト名 | リンク |
-| :--- | :--- |
-| **Gallery A** | [サイトを見る](https://nooooozycloud-spec.github.io/gallery_a/) |
-| **Container King** | [サイトを見る](https://nooooozycloud-spec.github.io/containerking/) |
+
+* [Gallery A](https://nooooozycloud-spec.github.io/gallery_a/)
+* [Container King](https://nooooozycloud-spec.github.io/containerking/)
 ---
 ## 📄 公開資料・ドキュメント (Docs)
 GitHub Pagesを利用して公開している各種資料です。
