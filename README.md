@@ -1,16 +1,21 @@
 ## 🚀 制作物 (Web Sites)
 GitHub Pagesを利用して公開しているWebサイトです。
+<ul>
+  <li><a href="https://nooooozycloud-spec.github.io/gallery_a/" target="_blank" rel="noopener noreferrer">Gallery A</a></li>
+  <li><a href="https://nooooozycloud-spec.github.io/containerking/" target="_blank" rel="noopener noreferrer">Container King</a></li>
+</ul>
 
-* [Gallery A](https://nooooozycloud-spec.github.io/gallery_a/)
-* [Container King](https://nooooozycloud-spec.github.io/containerking/)
----
+<hr>
+
 ## 📄 公開資料・ドキュメント (Docs)
 GitHub Pagesを利用して公開している各種資料です。
+<ul>
+  <li><a href="https://nooooozycloud-spec.github.io/01_02/" target="_blank" rel="noopener noreferrer">資料 01_02</a></li>
+  <li><a href="https://nooooozycloud-spec.github.io/recruit-shared/" target="_blank" rel="noopener noreferrer">採用共有資料 (recruit-shared)</a></li>
+  <li><a href="https://nooooozycloud-spec.github.io/votecguide-sales/" target="_blank" rel="noopener noreferrer">営業ガイド (votecguide-sales)</a></li>
+  <li><a href="https://nooooozycloud-spec.github.io/wathotel-site/" target="_blank" rel="noopener noreferrer">ホテルサイト資料 (wathotel-site)</a></li>
+</ul>
 
-* [資料 01_02](https://nooooozycloud-spec.github.io/01_02/)
-* [採用共有資料 (recruit-shared)](https://nooooozycloud-spec.github.io/recruit-shared/)
-* [営業ガイド (votecguide-sales)](https://nooooozycloud-spec.github.io/votecguide-sales/)
-* [ホテルサイト資料 (wathotel-site)](https://nooooozycloud-spec.github.io/wathotel-site/)
 ---
 ## 🛠 使用技術 / Skills
 - **Frontend:** HTML, CSS, JavaScript
@@ -18,6 +23,8 @@ GitHub Pagesを利用して公開している各種資料です。
 ---
 ## 📫 Contact
 - **GitHub:** [nooooozycloud-spec](https://github.com/nooooozycloud-spec)
+
+
 
 <!--
 **nooooozycloud-spec/nooooozycloud-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
